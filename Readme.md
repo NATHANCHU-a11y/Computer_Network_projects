@@ -1,6 +1,6 @@
 # Computer Network Project3
-### Name1:Tianle Zhu   UFID:40105598
-### Name2:Yan Gu       UFID:46562620
+### Name1:Tianle Zhu  
+### Name2:Yan Gu      
 
 ## 1. Description
 This is a Python script for a chat client/server that uses sockets to communicate with each other. It allows clients to connect to the server and send messages to one another, as well as transfer files.
